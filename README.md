@@ -98,5 +98,13 @@ M. Kumarasamy College of Engineering
 
 ---
 
+## 🏆 Achievements
+
+**🥉 3rd Prize Winner – ENTREPIX Entrepreneurship Event**
+
+Recognized for innovation, problem-solving, and business impact
+
+---
+
 ## 📜 License
 This project is licensed under the **MIT License**.
